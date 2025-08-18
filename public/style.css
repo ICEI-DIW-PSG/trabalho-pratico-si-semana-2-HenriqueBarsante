@@ -1,0 +1,36 @@
+html{
+    scroll-behavior: smooth;
+background-color: blanchedalmond;    
+    
+}
+body{
+    margin: 0%;
+    text-align: justify;
+}
+
+p   {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    color: rgb(0, 0, 0);
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Educação{
+    width: 40%;
+    max-height: fit-content;
+    display:inline-block
+}
+#Experiencia{
+    width: 40%;
+    max-height: fit-content;
+    display:inline-block;   
+    
+}
+div{
+    
+    text-align: justify;
+}
